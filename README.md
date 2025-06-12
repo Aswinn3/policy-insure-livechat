@@ -1,5 +1,3 @@
-# 💬 Live Chat System (Without Redis)
-
 A lightweight real-time message submission and retrieval system built using **Node.js**, **Express**, **MongoDB**, **Socket.io**, and **JWT authentication**.
 
 ---
