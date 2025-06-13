@@ -6,7 +6,6 @@ A lightweight real-time message submission and retrieval system built using **No
 
 - User Registration & Login with JWT authentication
 - Real-time messaging using Socket.IO
-- Message history retrieval (latest 50 messages)
 - MongoDB for message and user persistence
 - Joi validation for secure input
 
